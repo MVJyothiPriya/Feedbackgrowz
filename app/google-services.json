@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698775159670",
+    "project_id": "feed-98572",
+    "storage_bucket": "feed-98572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698775159670:android:5b805c59b9bb5a0f2bf057",
+        "android_client_info": {
+          "package_name": "com.example.feed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUGoU87JhjJoclKwu5St-16MccM1aWxOs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
